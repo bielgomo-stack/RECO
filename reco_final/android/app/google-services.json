@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "482576482449",
+    "project_id": "reco-233b3",
+    "storage_bucket": "reco-233b3.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:482576482449:android:4bd6ae34ed7c8e2e763f30",
+        "android_client_info": {
+          "package_name": "com.reco.app"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCpvwfGlTeOsT_dSjd0XsEhBmf0hGeoPPk"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
