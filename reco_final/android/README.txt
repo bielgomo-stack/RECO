@@ -1,1 +1,0 @@
-This project assumes you will run Flutter create or configure Android native parts via Flutter tooling.
